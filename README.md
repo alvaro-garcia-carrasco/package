@@ -9,3 +9,5 @@
 `tox --recreate`
 
 `tox -e py36`
+
+`TOXENV=py36 tox`
